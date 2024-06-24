@@ -1,0 +1,25 @@
+Programação Back-End
+*Assincrônismo
+*Funções Assincrônas
+*Requisições HTTP
+Apis e Endpoints
+
+----------------------------------------------------------------------------------------------------
+1-Assincrônismo: sincronisas é uma tarefa que depemde exclusivamente do tempo de processamento e res-
+posta do sistema.
+
+2-Assincrônismo nas Requisições HTTPS:
+
+             Fetch      End-point
+Front-end---->Api------->Banco de dados 
+                 Json
+
+   Fetch('...',{opções})
+                 *Get
+                 *Put/Update
+                 *Read
+                 *Delete
+
+*Promise*
+--->Async
+--->Await
